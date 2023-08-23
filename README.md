@@ -1,0 +1,2 @@
+# mini_project_react_typescript_todo
+React Typescript
